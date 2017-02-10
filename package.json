@@ -1,0 +1,26 @@
+{
+  "name": "min-server",
+  "version": "1.0.0",
+  "description": "Cloudant Envoy Backend for Min application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichalZak/min-server.git"
+  },
+  "keywords": [
+    "cloudant",
+    "envoy",
+    "min",
+    "couchdb",
+    "pouchdb"
+  ],
+  "author": "Michal Zak <michalzak@gmail.com> (http://mzlabs.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichalZak/min-server/issues"
+  },
+  "homepage": "https://github.com/MichalZak/min-server#readme"
+}
