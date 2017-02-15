@@ -22,5 +22,19 @@
   "bugs": {
     "url": "https://github.com/MichalZak/min-server/issues"
   },
-  "homepage": "https://github.com/MichalZak/min-server#readme"
+  "homepage": "https://github.com/MichalZak/min-server#readme",
+  "dependencies": {
+    "basic-auth": "^1.1.0",
+    "cloudant-envoy": "^0.4.1",
+    "crypto": "0.0.3",
+    "express": "^4.14.1",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-plumber": "^1.1.0",
+    "nodemon": "^1.11.0"
+  }
 }
